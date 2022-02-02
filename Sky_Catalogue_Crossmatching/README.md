@@ -16,3 +16,4 @@ We have six catalogues and we want to estimate shifts between *all* of them. Hav
 #### Task 3: Improvement of Task 2:
 Task 2 shows us that a pure pairwise analysis to obtain consistent offset values between more than two catalogues is not optimal. So, in this task, we want to estimate the shifts taking into account all available data points simultaneously.
    * Solve the offset problem for the six catalogues `image013269.asc .. image013274.asc`
+   * The logic is explained in details inside the `.ipynb file`
