@@ -13,7 +13,7 @@ In this part we discuss the following things:
    * What kind of curve does one expect for a pandemy that can spread freely? 
    * What effect do the measures and restrictions in Germany (e.g. social distancing) have on the curve? 
    * With this knowledge, a discussion has been made on that drastic limitations on our life (closure of schools etc.) that took effect in Germany on the 16th of March, 2019.
-   * What will the curve look like when the pandemy is over?
+   * What will the curve look like when the pandemy is over ?
 #### Plot 2: The infectious population as a function of pandemy-day for Germany.
 In this part we discuss the following things:
    * Effect of COVID-19 restrictions on the infection rate.
