@@ -19,7 +19,7 @@ In this part we discuss the following things:
    * Effect of COVID-19 restrictions on the infection rate.
    * Infection rate when the restrictions are removed and how long for this rate to reach its maximum.
 #### Plot 3: The infectious population as a function of pandemy-day for all countries.
-In this part we discuss the following things:
+In this part we discuss the following things:-
    * Make a list of those countries which currently still have a raising infectious population. Only countries having more than 5000 confirmed cases are considered. 
 
 
