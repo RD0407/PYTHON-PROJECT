@@ -17,15 +17,12 @@ Since we successfully load the data, the next steps involve the analysis and plo
 In this part we discuss the following things:
    * We start off by reading in some  map, and plot it with Matplotlib.
    * To plot a colorbar on the side, to show what color corresponds to what value.
-{
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+
     "**Remarks:**
     (1) When you explore the data-values, you will notice that they contain numbers from 0 to 100. A value of 50 means that 50% of the area occupied by the corresponding pixel are covered with ice. A value of zero means that the complete pixel is covered with water; 
     (2) Besides the numbers, a good deal of the pixels contains the special value `nan` (not a number). These are areas covered by land.
        Functions like `imshow` automatically ignore these values and do not produce an error.]
-  }
+ 
   
   #### Task 2: Reading in and examining multiple maps
   In this part we discuss the following things:
