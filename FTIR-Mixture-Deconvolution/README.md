@@ -17,5 +17,5 @@ A simple Python project for quantifying the concentrations of three pure compone
 ## How to Use
 
 1. Place your `.npy` files in the project directory.
-2. Run the provided Python script (see `FTIR-Concentration-Fitting.py`).
+2. Run the provided Python script (see `FTIR-Mixture-Deconvolution.ipynb`).
 3. The script prints out the concentrations and displays a comparison plot.
