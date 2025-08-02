@@ -27,30 +27,6 @@ Run the script:
     Check your edited images in the editedImgs/ folder.
     All edited files will have _edited appended to the original name.
 
-Sample Code
-
-import os
-from PIL import Image, ImageEnhance, ImageFilter
-
-path = 'imgs'
-pathOut = 'editedImgs'
-
-os.makedirs(pathOut, exist_ok=True)
-
-for filename in os.listdir(path):
-    img = Image.open(os.path.join(path, filename))
-    edit = img.filter(ImageFilter.SHARPEN)
-    clean_name = os.path.splitext(filename)[0]
-    edit.save(os.path.join(pathOut, f'{clean_name}_edited.png'))
-
-Folder Structure
-
-project/
-├── imgs/            # Input images here
-├── editedImgs/      # Output folder for edited images
-├── script_name.py   # This script
-└── README.md        # (this file)
-
 Requirements
 
     Python 3.x
@@ -60,5 +36,3 @@ Requirements
 License
 
 Feel free to use or adapt this script for any project!
-
-Let me know if you want to add more details (like customization, more filters, or example images)!
