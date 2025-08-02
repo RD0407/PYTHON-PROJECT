@@ -1,4 +1,4 @@
-##Image Sharpening Batch Script
+Image Sharpening Batch Script
 
 A simple Python project to batch-sharpen all images in a folder and save the results to a new directory.
 Useful for quickly improving image clarity for many files at once.
