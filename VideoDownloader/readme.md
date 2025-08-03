@@ -27,7 +27,10 @@ Save your script as videoDownloader.py.
 
 3. **Run the Script:**
 
+```bash
 python videoDownloader.py <YouTube-Video-URL>
+
+```
 
 ## Example:
 
