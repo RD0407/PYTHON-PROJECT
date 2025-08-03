@@ -20,18 +20,18 @@ Built using the [pytube](https://github.com/pytube/pytube) library.
    source myenv/bin/activate
    pip install pytube
 
-Save the Script:
+## Save the Script:
 Save your script as videoDownloader.py.
 
-Run the Script:
+## Run the Script:
 
 python videoDownloader.py <YouTube-Video-URL>
 
-Example:
+## Example:
 
     python videoDownloader.py https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-Example Output
+## Example Output
 
 Title:  Rick Astley - Never Gonna Give You Up (Official Music Video)
 Views:  1400000000
