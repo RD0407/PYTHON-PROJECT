@@ -20,10 +20,10 @@ Built using the [pytube](https://github.com/pytube/pytube) library.
    source myenv/bin/activate
    pip install pytube
 
-## Save the Script:
+2. **Save the Script:**
 Save your script as videoDownloader.py.
 
-## Run the Script:
+3. **Run the Script:**
 
 python videoDownloader.py <YouTube-Video-URL>
 
