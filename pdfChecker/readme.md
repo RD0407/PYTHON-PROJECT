@@ -18,7 +18,7 @@ Features
 
 2. Run the Script
 
-You can run the script in Jupyter Notebook, or as a Python script.
+    You can run the script in Jupyter Notebook, or as a Python script.
 
 ## How does it work?
 
