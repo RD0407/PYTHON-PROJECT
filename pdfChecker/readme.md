@@ -11,6 +11,7 @@ Features
     Tells you clearly whether the files are identical or not.
 
 ## Usage
+
 1. Prepare Your Files
 
     Put your files in the same directory as the script (for example, pdf1.pdf and pdf2.pdf).
