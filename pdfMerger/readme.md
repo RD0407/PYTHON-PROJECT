@@ -34,7 +34,7 @@ pdf_files = ["pdf1.pdf", "pdf3.pdf"]
 
 Add as many files as you want (they will merge in this order).
 
-Run the script:
+ ## Run the script:
 
     python pdf_merger.py
 
