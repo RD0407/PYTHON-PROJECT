@@ -4,7 +4,7 @@
 This project consists of two parts:
 
 In the first part, we learn about a Monte-Carlo method to estimate errors from a quantity that is compound of other quantities with measurement errors.
-
+ 
 This method is then used to estimate errors on the mass from the stars companion in the second part.
 
 ### 2. Analysis Task
