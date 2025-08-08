@@ -1,6 +1,7 @@
 # Project 2 - Arctic ice maps
 ## Aim : To become familiar with working on image data, plotting it, and combining it in various ways for analysis.
 
+
 ### Steps Involved:
 ### 1. Loading of data:
 The data used in this problem set was/is collected by two different satellite missions: the AMSR-E instrument on the [Aqua](http://en.wikipedia.org/wiki/Aqua_%28satellite%29) satellite (data from 2002 to 2011) and the AMSR2 instrument on the [GCOM-W](https://suzaku.eorc.jaxa.jp/GCOM_W/) satellite (data from 2013 to-date).
