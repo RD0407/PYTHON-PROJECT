@@ -1,4 +1,4 @@
-🎬 Movie Recommender (TMDB)
+ # 🎬 Movie Recommender (TMDB)
 
 A simple Python tool that recommends movies from TMDB based on:
 
