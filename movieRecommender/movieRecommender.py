@@ -2,7 +2,7 @@ import os
 import requests
 
 # === CONFIGURATION ===
-API_KEY = os.getenv("TMDB_API_KEY", "1af9ab93e53f6115b7cc689c694967a4")  # or paste your key here
+API_KEY = os.getenv("TMDB_API_KEY", "YOUR_TMDB_API_KEY")  # or paste your key here
 BASE_URL = "https://api.themoviedb.org/3"
 
 # === MOOD to Genre Mapping ===
