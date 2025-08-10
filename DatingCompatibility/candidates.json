@@ -1,0 +1,165 @@
+{
+  "male": [
+    {
+      "name": "A",
+      "age": 28,
+      "nationality": "Europe",
+      "languages": ["English", "German"],
+      "smoking": "No",
+      "personality": {
+        "Kindness": 9,
+        "Humor": 7,
+        "Intellect": 8,
+        "Confidence": 6,
+        "Caring": 9,
+        "Adventurous": 7,
+        "Honesty": 8,
+        "Loyalty": 9,
+        "Empathy": 8,
+        "Creativity": 7,
+        "Patience": 6,
+        "Ambition": 8,
+        "Optimism": 7,
+        "Maturity": 8,
+        "Playfulness": 7,
+        "Calmness": 7,
+        "Leadership": 6,
+        "Sociability": 8,
+        "Discipline": 7,
+        "Open-mindedness": 9
+      },
+      "physical": {
+        "Height": "175–180",
+        "Weight": "65–70",
+        "Hair Color": "Dark Brown",
+        "Hair Type": "Wavy",
+        "Eye Color": "Brown",
+        "Skin Tone": "Light",
+        "Body Type": "Athletic",
+        "Facial Hair": "Short beard",
+        "Penis Size": "15–18 cm"
+      }
+    },
+    {
+      "name": "B",
+      "age": 32,
+      "nationality": "North America",
+      "languages": ["English", "French"],
+      "smoking": "Yes",
+      "personality": {
+        "Kindness": 8,
+        "Humor": 8,
+        "Intellect": 7,
+        "Confidence": 9,
+        "Caring": 8,
+        "Adventurous": 9,
+        "Honesty": 8,
+        "Loyalty": 7,
+        "Empathy": 8,
+        "Creativity": 6,
+        "Patience": 6,
+        "Ambition": 9,
+        "Optimism": 8,
+        "Maturity": 7,
+        "Playfulness": 8,
+        "Calmness": 6,
+        "Leadership": 8,
+        "Sociability": 9,
+        "Discipline": 6,
+        "Open-mindedness": 8
+      },
+      "physical": {
+        "Height": "180–185",
+        "Weight": "70–80",
+        "Hair Color": "Black",
+        "Hair Type": "Straight",
+        "Eye Color": "Blue",
+        "Skin Tone": "Medium",
+        "Body Type": "Muscular",
+        "Facial Hair": "Clean-shaven",
+        "Penis Size": ">18 cm"
+      }
+    }
+  ],
+  "female": [
+    {
+      "name": "Emma",
+      "age": 26,
+      "nationality": "Europe",
+      "languages": ["English", "Italian"],
+      "smoking": "No",
+      "personality": {
+        "Kindness": 9,
+        "Humor": 8,
+        "Intellect": 8,
+        "Confidence": 7,
+        "Caring": 9,
+        "Adventurous": 8,
+        "Honesty": 9,
+        "Loyalty": 9,
+        "Empathy": 9,
+        "Creativity": 8,
+        "Patience": 8,
+        "Ambition": 7,
+        "Optimism": 8,
+        "Maturity": 8,
+        "Playfulness": 7,
+        "Calmness": 8,
+        "Leadership": 7,
+        "Sociability": 8,
+        "Discipline": 7,
+        "Open-mindedness": 9
+      },
+      "physical": {
+        "Height": "160–165",
+        "Weight": "50–55",
+        "Hair Color": "Blonde",
+        "Hair Type": "Wavy",
+        "Eye Color": "Green",
+        "Skin Tone": "Fair",
+        "Body Type": "Slim",
+        "Breast Size": "Medium"
+      }
+    },
+    {
+      "name": "Gia",
+      "age": 30,
+      "nationality": "Asia",
+      "languages": ["English", "Japanese"],
+      "smoking": "Yes",
+      "personality": {
+        "Kindness": 8,
+        "Humor": 7,
+        "Intellect": 9,
+        "Confidence": 8,
+        "Caring": 8,
+        "Adventurous": 7,
+        "Honesty": 9,
+        "Loyalty": 9,
+        "Empathy": 9,
+        "Creativity": 8,
+        "Patience": 7,
+        "Ambition": 8,
+        "Optimism": 7,
+        "Maturity": 8,
+        "Playfulness": 7,
+        "Calmness": 7,
+        "Leadership": 8,
+        "Sociability": 8,
+        "Discipline": 8,
+        "Open-mindedness": 9
+      },
+      "physical": {
+        "Height": "165–170",
+        "Weight": "55–60",
+        "Hair Color": "Black",
+        "Hair Type": "Straight",
+        "Eye Color": "Brown",
+        "Skin Tone": "Olive",
+        "Body Type": "Curvy",
+        "Breast Size": "Large"
+      }
+    }
+  ]
+}
+
