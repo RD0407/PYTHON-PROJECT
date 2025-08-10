@@ -121,7 +121,7 @@ python compatibility_matcher.py
 
         Summary: Why they match & what’s lacking
 
-📊 Scoring System
+## 📊 Scoring System
 
     Personality → 40% weight
 
@@ -129,7 +129,7 @@ python compatibility_matcher.py
 
     Misc (age, nationality, language, smoking) → 10% weight
 
-💡 Notes
+## 💡 Notes
 
     Pressing Enter without a value uses default options (no crash).
 
