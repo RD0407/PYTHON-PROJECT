@@ -1,4 +1,4 @@
-💘 Compatibility Matcher
+# 💘 Compatibility Matcher
 
 A detailed dating compatibility matcher in Python that compares your preferences against a list of candidates from a candidates.json file.
 It calculates a compatibility percentage (0–100%) based on:
@@ -21,28 +21,28 @@ It also provides a summary chart for each candidate, showing:
 
     ❌ What’s lacking
 
-📦 Requirements
+## 📦 Requirements
 
     Python 3.8+
 
     rich for fancy terminal UI
 
-Install dependencies:
+## Install dependencies:
 
 pip install rich
 
-📂 Project Structure
+## 📂 Project Structure
 
 compatibility_matcher.py   # Main script
 candidates.json            # Candidate data
 README.md                  # This file
 
-📝 Creating the candidates.json file
+## 📝 Creating the candidates.json file
 
 The JSON file should contain two main keys: "male" and "female".
 Each contains a list of candidates with their attributes.
 
-Example:
+## Example:
 
 {
   "female": [
@@ -87,11 +87,11 @@ Example:
   ]
 }
 
-▶️ Running the Script
+## ▶️ Running the Script
 
 python compatibility_matcher.py
 
-🖥️ How It Works
+## 🖥️ How It Works
 
     Choose your partner’s gender (male or female).
 
