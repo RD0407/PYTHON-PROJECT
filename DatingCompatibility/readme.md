@@ -4,6 +4,7 @@ A detailed dating compatibility matcher in Python that compares your preferences
 It calculates a compatibility percentage (0–100%) based on:
 
     🧠 Personality traits (20+ traits with ratings 0–10)
+    
 
     💪 Physical preferences (gender-specific, with top 3 ranked per trait)
 
