@@ -12,6 +12,7 @@ Features
 
     Safe Output: Saves all results into a new folder called editedImgs/ to keep originals untouched.
 
+
 ## How to Use
 
     Put your images (e.g. .png, .jpg) into the imgs/ folder (create it if it doesn’t exist).
