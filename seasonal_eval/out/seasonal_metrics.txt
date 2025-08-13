@@ -1,0 +1,2 @@
+Winter (Dec–Feb): MAPE 2.70%, RMSE 273.3 MW
+Summer (Jun–Aug): MAPE 4.04%, RMSE 363.0 MW
