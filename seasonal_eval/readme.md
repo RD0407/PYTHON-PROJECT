@@ -55,20 +55,6 @@ This project builds a machine learning model to predict **hourly load (MW)** one
 
 ---
 
-## 🏢 Business Relevance
-
-This type of forecasting supports:
-- **Day-ahead market bidding** in energy trading
-- **Grid stability management** for transmission operators
-- **Demand-side planning** for utilities and large consumers
-
-Relevant to Swiss companies such as:
-- Axpo
-- Alpiq
-- Swissgrid
-- Trading houses in Geneva and Zurich
-
----
 
 ## 🚀 How to Run
 
