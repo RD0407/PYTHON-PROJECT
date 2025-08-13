@@ -51,8 +51,8 @@ This project builds a machine learning model to predict **hourly load (MW)** one
 ![Zoomed View](out/actual_vs_pred_zoom.png)
 
 ### Winter vs Summer Average Daily Profiles
-![Winter vs Summer Profile](out/winter_vs_summer_profile.png)
-
+![Summer Profile](out/summer_profile_pred_vs_actual.png)
+![Winter Profile](out/winter_profile_pred_vs_actual.png)
 ---
 
 
