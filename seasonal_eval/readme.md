@@ -5,7 +5,7 @@ This project demonstrates advanced **time-series forecasting** and **feature eng
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Swiss electricity demand varies by:
 - **Season** (winter heating vs summer cooling)
@@ -22,7 +22,7 @@ This project builds a machine learning model to predict **hourly load (MW)** one
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Python** 3.x
 - **Data handling:** `pandas`, `numpy`
@@ -33,7 +33,7 @@ This project builds a machine learning model to predict **hourly load (MW)** one
 
 ---
 
-## 📊 Results
+## Results
 
 - **MAPE:** ~3.9% (safe MAPE excluding zero/near-zero load values)
 - **RMSE:** ~378 MW (on loads of 5,000–10,000 MW)
@@ -42,7 +42,7 @@ This project builds a machine learning model to predict **hourly load (MW)** one
 
 ---
 
-## 📈 Example Plots
+## Example Plots
 
 ### Actual vs Predicted (Full Period)
 ![Actual vs Predicted](out/actual_vs_pred_clean.png)
@@ -56,30 +56,20 @@ This project builds a machine learning model to predict **hourly load (MW)** one
 ---
 
 
-## 🚀 How to Run
+##  How to Run
 ```bash
-1️⃣ Install dependencies:
+1. Install dependencies:
 
 pip install pandas numpy matplotlib scikit-learn xgboost meteostat openpyxl
-2️⃣ Place the Swissgrid Excel file in:
+2. Place the Swissgrid Excel file in:
 
 p1_swiss_load_forecast/data/swissgrid_load.xlsx
 
-3️⃣ Run the main forecast:
+3. Run the main forecast:
 
 python run.py
 
-4️⃣ Run seasonal analysis:
+4. Run seasonal analysis:
 
 python seasonal_eval.py
 
-📂 Project Structure
-
-p1_swiss_load_forecast/
-│
-├── run.py                  # Main forecasting script
-├── seasonal_eval.py        # Winter vs Summer evaluation
-├── data/
-│   └── swissgrid_load.xlsx # Input load data
-├── out/                    # Generated plots and metrics
-└── README.md               # This file
