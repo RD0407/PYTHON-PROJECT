@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 """
 Swiss Load Forecast (token-free, using Swissgrid Excel)
@@ -11,11 +10,11 @@ Swiss Load Forecast (token-free, using Swissgrid Excel)
 - Trains XGBoost with time-series CV
 - Uses SAFE MAPE that ignores tiny actuals (<= 500 MW) to avoid divide-by-zero
 - Saves plots:
-    p1_entsoe_load/out/actual_vs_pred_clean.png
-    p1_entsoe_load/out/actual_vs_pred_zoom.png
-    p1_entsoe_load/out/error_over_time.png
-    p1_entsoe_load/out/scatter_pred_vs_actual.png
-    p1_entsoe_load/out/error_distribution.png
+    p2/out/actual_vs_pred_clean.png
+    p2/out/actual_vs_pred_zoom.png
+    p2/out/error_over_time.png
+    p2/out/scatter_pred_vs_actual.png
+    p2/out/error_distribution.png
 """
 
 import os
