@@ -57,9 +57,9 @@ This project builds a machine learning model to predict **hourly load (MW)** one
 
 
 ## 🚀 How to Run
-
-1️⃣ Install dependencies:
 ```bash
+1️⃣ Install dependencies:
+
 pip install pandas numpy matplotlib scikit-learn xgboost meteostat openpyxl
 2️⃣ Place the Swissgrid Excel file in:
 
