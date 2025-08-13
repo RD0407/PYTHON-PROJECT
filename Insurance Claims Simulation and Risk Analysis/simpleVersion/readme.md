@@ -1,4 +1,4 @@
-# Insurance Claims Simulation — Beginner Project
+# Insurance Claims Simulation: Beginner Project
 ## Overview
 
 This project simulates one year of insurance claims to explore how data can be generated, analyzed, and visualized in Python.
