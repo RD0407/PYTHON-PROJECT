@@ -4,6 +4,7 @@
 This project simulates one year of insurance claims to explore how data can be generated, analyzed, and visualized in Python.
 It is designed for beginners who want to understand basic data simulation and plotting without complex machine learning.
 
+
 ## Objectives
 
 Simulate random daily insurance claims for a whole year
