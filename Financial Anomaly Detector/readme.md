@@ -40,3 +40,12 @@ Overlays anomalies from all three methods on a single chart for comparison.
 ## Requirements
 
 ### Install dependencies:
+
+bash```
+numpy
+pandas
+matplotlib
+yfinance
+scikit-learn
+
+```
