@@ -1,4 +1,4 @@
-EUR/CHF Anomaly Detection: Global vs Rolling vs Isolation Forest
+#EUR/CHF Anomaly Detection: Global vs Rolling vs Isolation Forest
 
 This project compares three anomaly detection methods applied to the EUR/CHF foreign exchange rate:
 
@@ -17,3 +17,22 @@ Red circles: Global z-score anomalies
 Blue crosses: Rolling z-score anomalies
 
 Green squares: Isolation Forest anomalies
+
+## How It Works
+### Data Collection
+
+Uses Yahoo Finance (yfinance) to download EUR/CHF daily closing prices.
+
+Computes daily returns and rolling volatility.
+
+### Methods
+
+Global z-score: Flags returns exceeding ±3σ from global mean.
+
+Rolling z-score: Flags returns exceeding ±3σ from rolling 30-day mean/std.
+
+Isolation Forest: Uses returns + rolling volatility as features.
+
+### Visualization
+
+Overlays anomalies from all three methods on a single chart for comparison.
