@@ -36,3 +36,7 @@ Isolation Forest: Uses returns + rolling volatility as features.
 ### Visualization
 
 Overlays anomalies from all three methods on a single chart for comparison.
+
+## Requirements
+
+### Install dependencies:
