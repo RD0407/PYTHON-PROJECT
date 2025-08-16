@@ -60,17 +60,17 @@ Observed vs Predicted daily claims (frequency model performance).
 
 Histogram of claim sizes (severity distribution).
 
-Q–Q plot for severity model validation.
+#### Q–Q plot for severity model validation.
 
 ## Example Outputs
 
-Observed vs Predicted daily claims (Poisson regression with lag1)
+#### Observed vs Predicted daily claims (Poisson regression with lag1)
 ![Actual vs Predicted](frequency_observed_vs_fitted.png)
 
-Histogram of all simulated claim amounts
+#### Histogram of all simulated claim amounts
 ![All simulated claim](annual_aggregate_hist.png)
 
-Q–Q Plot
+### Q–Q Plot
 
-Checking fit of Gamma/Lognormal distribution against observed claims
+#### Checking fit of Gamma/Lognormal distribution against observed claims
 ![Fits](severity_fits.png)
