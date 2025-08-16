@@ -48,3 +48,10 @@ matplotlib
 yfinance
 scikit-learn
 ```
+ ## Insights
+
+Global z-score is strict but insensitive to local volatility shifts.
+
+Rolling z-score adapts to local regimes, flagging spikes relative to recent context.
+
+Isolation Forest can catch nonlinear anomalies that z-scores miss.
