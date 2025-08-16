@@ -41,11 +41,10 @@ Overlays anomalies from all three methods on a single chart for comparison.
 
 ### Install dependencies:
 
-bash ```
+```
 numpy
 pandas
 matplotlib
 yfinance
 scikit-learn
-
 ```
