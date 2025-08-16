@@ -63,16 +63,14 @@ Histogram of claim sizes (severity distribution).
 Q–Q plot for severity model validation.
 
 ## Example Outputs
-Claims Frequency
 
 Observed vs Predicted daily claims (Poisson regression with lag1)
-
-
-Claim Size Distribution
+![Actual vs Predicted](frequency_observed_vs_fitted.png)
 
 Histogram of all simulated claim amounts
-
+![All simulated claim](annual_aggregate_hist.png)
 
 Q–Q Plot
 
 Checking fit of Gamma/Lognormal distribution against observed claims
+![Fits](severity_fits.png)
