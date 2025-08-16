@@ -1,4 +1,4 @@
-#EUR/CHF Anomaly Detection: Global vs Rolling vs Isolation Forest
+# EUR/CHF Anomaly Detection: Global vs Rolling vs Isolation Forest
 
 This project compares three anomaly detection methods applied to the EUR/CHF foreign exchange rate:
 
