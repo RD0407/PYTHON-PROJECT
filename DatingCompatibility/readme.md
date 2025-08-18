@@ -22,6 +22,7 @@ It also provides a summary chart for each candidate, showing:
 
     ❌ What’s lacking
 
+
 ## 📦 Requirements
 
     Python 3.8+
