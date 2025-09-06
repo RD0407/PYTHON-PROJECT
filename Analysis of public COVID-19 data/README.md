@@ -1,5 +1,5 @@
 # Project 1 - COVID-19 Data Analysis
-## Aim: To analyse the development of the COVID-19 pandemy and to check which countries currently do have a raising number of infectious COVID-19 patients.
+## Aim: To analyse the development of the COVID-19 pandemy and to check which countries currently do have a raising number of infectious COVID-19 patients. 
 ## Steps Involved:
 ### 1. Loading of data:
 The data used in this notebook are daily updated and published by the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide).
