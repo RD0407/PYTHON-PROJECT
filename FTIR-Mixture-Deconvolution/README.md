@@ -6,7 +6,7 @@ A simple Python project for quantifying the concentrations of three pure compone
 
 - Loads FTIR spectra of three pure reference compounds and their mixture from `.npy` files.
 - Uses linear least squares to fit the mixture spectrum as a combination of pure component spectra.
-- Determines and prints the concentration of each pure component in the mixture.
+- Determines and prints the concentration of each pure component in the mixture. 
 - Visualizes the measured mixture spectrum, the best-fit reconstructed mixture, and the pure component spectra for comparison.
 
 ## Files
